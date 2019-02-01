@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Module5Lesson5Pract.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\biahm\source\repos\module5lesson5pract\module5lesson5pract\source.cpp(358): warning C4101: 'sum': unreferenced local variable
+  Module5Lesson5Pract.vcxproj -> C:\Users\biahm\source\repos\Module5Lesson5Pract\Debug\PracticeArrays2.exe
